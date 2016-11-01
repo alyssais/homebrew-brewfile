@@ -1,4 +1,4 @@
-load 'macOS.Brewfile' if `uname -s`.chomp == "Darwin"
+load "#{__dir__}/macOS.Brewfile" if `uname -s`.chomp == "Darwin"
 
 brew 'vitorgalvao/tiny-scripts/cask-repair'
 brew 'diff-so-fancy'
