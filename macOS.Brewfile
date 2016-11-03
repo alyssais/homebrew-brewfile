@@ -15,6 +15,7 @@ cask 'goofy'
 
 brew 'speedtest_cli'
 brew 'shpotify'
+brew 'chruby'
 
 mas '1password', id: 443987910
 mas 'tweetbot', id: 557168941
