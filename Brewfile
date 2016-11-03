@@ -16,6 +16,7 @@ brew 'hub' # maybe dotfiles
 brew 'homebrew/dupes/openssh'
 brew 'neovim/neovim/neovim'
 brew 'postgresql'
+brew 'ruby-install'
 brew 'ssh-copy-id'
 brew 'the_silver_searcher'
 brew 'youtube-dl'
