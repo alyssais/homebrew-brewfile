@@ -11,6 +11,7 @@ cask 'dash'
 cask 'flux'
 cask 'namechanger'
 cask 'sublime-text'
+cask 'goofy'
 
 brew 'speedtest_cli'
 brew 'shpotify'
