@@ -1,4 +1,6 @@
-load "#{__dir__}/macOS.Brewfile" if `uname -s`.chomp == "Darwin"
+platform = { "Darwin" => "macOS" }[`uname -s`.chomp]
+dir = Pathname.new("#{ENV["HOME"]}/.Brewfile").readlink.dirname
+instance_eval (dir/"#{platform}.Brewfile").read if platform
 
 brew 'vitorgalvao/tiny-scripts/cask-repair'
 brew 'diff-so-fancy'
