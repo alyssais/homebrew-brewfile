@@ -20,3 +20,4 @@ brew 'chruby'
 mas '1password', id: 443987910
 mas 'tweetbot', id: 557168941
 mas 'xcode', id: 497799835
+mas 'numbers', id: 409203825
