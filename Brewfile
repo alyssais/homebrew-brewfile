@@ -13,6 +13,7 @@ brew 'gpg'
 brew 'gpg-agent'
 brew 'git'
 brew 'hub' # maybe dotfiles
+brew 'homebrew/dupes/less'
 brew 'homebrew/dupes/openssh'
 brew 'neovim/neovim/neovim'
 brew 'postgresql'
