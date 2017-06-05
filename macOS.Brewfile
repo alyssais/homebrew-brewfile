@@ -1,3 +1,5 @@
+tap 'caskroom/fonts'
+
 cask 'omnifocus'
 cask 'omnioutliner'
 cask 'omnipresence'
@@ -12,6 +14,8 @@ cask 'flux'
 cask 'namechanger'
 cask 'sublime-text'
 cask 'goofy'
+cask 'font-fira-code'
+cask 'font-fira-mono'
 
 brew 'speedtest_cli'
 brew 'shpotify'
