@@ -1,5 +1,6 @@
 tap 'caskroom/fonts'
 
+cask 'alfred'
 cask 'omnifocus'
 cask 'omnioutliner'
 cask 'omnipresence'
