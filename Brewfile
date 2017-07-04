@@ -13,6 +13,7 @@ brew 'gpg'
 brew 'gpg-agent'
 brew 'git'
 brew 'hub' # maybe dotfiles
+brew 'jq'
 brew 'less'
 brew 'openssh'
 brew 'neovim/neovim/neovim'
