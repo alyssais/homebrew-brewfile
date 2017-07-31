@@ -10,7 +10,6 @@ brew 'vitorgalvao/tiny-scripts/cask-repair'
 brew 'diff-so-fancy'
 brew 'direnv'
 brew 'gpg'
-brew 'gpg-agent'
 brew 'git'
 brew 'hub' # maybe dotfiles
 brew 'jq'
