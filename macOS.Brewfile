@@ -1,4 +1,5 @@
 tap  'caskroom/fonts'
+tap  'caskroom/versions'
 
 cask 'alfred'
 cask 'omnifocus'
@@ -15,6 +16,7 @@ cask 'flux'
 cask 'namechanger'
 cask 'sublime-text'
 cask 'goofy'
+cask 'gpgtools-nightly' # need GPG 2.1 support
 cask 'font-fira-code'
 cask 'font-fira-mono'
 
