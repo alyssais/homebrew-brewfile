@@ -15,6 +15,7 @@ brew 'hub' # maybe dotfiles
 brew 'jq'
 brew 'less'
 brew 'openssh'
+brew 'ncdu'
 brew 'neovim/neovim/neovim'
 brew 'postgresql'
 brew 'pv'
