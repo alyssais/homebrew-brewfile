@@ -2,6 +2,7 @@ tap  'caskroom/fonts'
 tap  'caskroom/versions'
 
 brew 'chruby'
+brew 'reattach-to-user-namespace'
 brew 'shpotify'
 brew 'speedtest_cli'
 
