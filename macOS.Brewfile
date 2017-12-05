@@ -27,6 +27,7 @@ cask 'sublime-text'
 
 mas  '1password',    id: 443987910
 mas  'colorsnapper', id: 418176775
+mas  'line',         id: 539883307
 mas  'numbers',      id: 409203825
 mas  'tweetbot',     id: 557168941
 mas  'xcode',        id: 497799835
