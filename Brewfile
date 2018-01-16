@@ -11,7 +11,7 @@ brew 'diff-so-fancy'
 brew 'direnv'
 brew 'fzf'
 brew 'gpg'
-brew 'git'
+brew 'git', args: ["with-pcre2"]
 brew 'hub' # maybe dotfiles
 brew 'jq'
 brew 'less'
