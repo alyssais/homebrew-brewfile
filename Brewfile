@@ -9,6 +9,7 @@ tap  'neovim/neovim'
 brew 'vitorgalvao/tiny-scripts/cask-repair'
 brew 'diff-so-fancy'
 brew 'direnv'
+brew 'extract_url'
 brew 'fzf'
 brew 'gpg'
 brew 'git', args: ["with-pcre2"]
