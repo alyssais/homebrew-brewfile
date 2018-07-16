@@ -26,7 +26,7 @@ brew 'ssh-copy-id'
 brew 'the_silver_searcher'
 brew 'tmux'
 brew 'wget'
-brew 'weechat', args: ["with-python"]
+brew 'weechat', args: ["with-python", "with-perl"]
 brew 'yarn'
 brew 'youtube-dl'
 brew 'z'
